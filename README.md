@@ -1,8 +1,8 @@
-# Jekyll Resume Theme
+# Jekyll Resume 
 
-Live demo at https://jekyll-theme-minimal-resume.netlify.com/
+Live demo at https://www.pranjal.co.uk/
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/24d80ae8-c3d9-4645-a6d8-9e97fc8dec3c/deploy-status)](https://app.netlify.com/sites/jekyll-theme-minimal-resume/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e2842077-14ca-4227-a4b0-12011641cc5d/deploy-status)](https://app.netlify.com/sites/determined-yonath-09937d/deploys)
 
 # Stack
 
@@ -24,7 +24,7 @@ Live demo at https://jekyll-theme-minimal-resume.netlify.com/
 # Screenshot
 
 <p align="center">
-  <img src="https://github.com/murraco/jekyll-theme-minimal-resume/blob/master/screenshot.png" width="90%" />
+  <img src="https://github.com/pranjal7/jekyll-theme-minimal-resume/blob/master/screenshot.png" width="90%" />
 </p>
 
 # Quick Setup
@@ -48,8 +48,8 @@ url: "http://localhost:3000" # the base hostname & protocol for your site
 ```yml
 username: Lorem Ipsum
 user_description: Software Engineer at Lorem Ipsum Dolor
-user_title: Mauricio Urraco
-email: mauriurraco@gmail.com
+user_title: Pranjal Bhatnagar
+email: pranjal091994@live.com
 ```
 
 > Don't forget to change your URL before you deploy your site!
@@ -67,7 +67,7 @@ email: mauriurraco@gmail.com
 You can (and should) edit the `.html` files for adding your own information, icons, working experience, social links or whatever you want to add. I.e.:
 
 ```html
-<a aria-label="My Github" target="_blank" href="https://github.com/murraco">
+<a aria-label="My Github" target="_blank" href="https://github.com/pranjal7">
   <i class="icon fa fa-github-alt" aria-hidden="true"></i>
 </a>
 ```
@@ -85,10 +85,14 @@ In order to compile the assets and run `Jekyll` locally you need to follow those
 - Report issues
 - Open pull request with improvements
 - Spread the word
-- Reach out to me directly at <mauriurraco@gmail.com>
+- Reach out to me directly
 
 # Donate
 
-`btc: 36V7HqqENSKn6iFCBuE4iCdtB29uGoCKzN`
+`btc: 0x8d0e1184614C5D3aFB7B833b66D6c2ffe5fa340e`
 
-`eth: 0xB419E3E9fa2233383E0877d442e55C34B9C944dD`
+`eth: 0xAfE57Df5eD5289549D39E6f723aB41373c065AB2`
+
+`ltc: MCfYkNd1VUEgrn1Yg2iheuNK19VxTaBEZ9`
+
+`bat: 0x8d0e1184614C5D3aFB7B833b66D6c2ffe5fa340e`
